@@ -1,4 +1,3 @@
-***
 I'm a backend developer. Open for work suggestions
 ***
 My telegram: @gratefultolord
