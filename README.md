@@ -1,8 +1,11 @@
 Hi, there!
+
 I'm a backend developer. Currently working on AI projects. Open for work suggestions
 ***
 In case if you need to contact me:
+
 My mail: gratefultolord@gmail.com
+
 My telegram: @gratefultolord
 ## Tech stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
