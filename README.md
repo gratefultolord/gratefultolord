@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @gratefultolord
 I'm a backend developer. Open for work suggestions
 My telegram: @gratefultolord
 ## Tech stack:
